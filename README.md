@@ -73,5 +73,5 @@ A curated log of my data science learning path—exploring Jupyter, Python, stat
 ---
 
 <p align="center">
-  🌍 <em>“Code should empower people — not just users.”</em>
+  🌍 <em>“Code should empower people, not just users.”</em>
 </p>
