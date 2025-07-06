@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.svg" alt="Josva's banner" width="800"/>
+  <img src="josva12-banner.gif.png" alt="Josva's Animated Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Josva</h1>
 <h3 align="center">API Developer • Blockchain Enthusiast • Civic‑Tech Innovator</h3>
