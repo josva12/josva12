@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Josva</h1>
-<h3 align="center">API Developer • Blockchain Enthusiast • Civic‑Tech Innovator</h3>
+<h3 align="center">Full stack Developer • Blockchain Enthusiast • Civic‑Tech Innovator</h3>
 
 <p align="center">
   🚀 I build APIs and systems that drive transparency, governance, healthcare, and affordable housing in <strong>Kenya</strong>.
